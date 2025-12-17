@@ -9,3 +9,15 @@ Não foi utilizado IA para fazer o código, a ideia foi tirada de um trabalho da
 Pretendo utilizar SPRING boot para desenvolver melhor o projeto.
 
 
+## Como executar
+1. Clone o repositório
+2. Compile os arquivos dentro da pasta src
+3. Execute a classe Main
+
+#Projeto desenvolvido em Java com foco em:
+- Programação Orientada a Objetos
+- Interfaces e classes abstratas
+- Tratamento de exceções
+- Uso de Wrapper Classes
+- Organização com packages
+- ArrayList
